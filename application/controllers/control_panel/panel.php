@@ -26,4 +26,8 @@ class Panel extends MY_Controller{
 		$this->session->unset_userdata("postador");
 		redirect('login');
 	}
+
+	public function master(){
+		return true;
+	}
 }
