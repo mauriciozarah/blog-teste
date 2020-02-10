@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <head>
 
-    <meta charset="utf-8">
+    <meta charset="iso-8859-1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Portal de padarias delivery">
+    <meta name="description" content="Portal de padarias Delivery">
     <meta name="author" content="">
 
-    <title>Blog v1.0</title>
+    <title>Blog v1.5</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url('assets/bower_components/bootstrap/dist/css/bootstrap.min.css'); ?>" rel="stylesheet">
