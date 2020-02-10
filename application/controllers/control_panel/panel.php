@@ -28,6 +28,6 @@ class Panel extends MY_Controller{
 	}
 
 	public function master(){
-		return true;
+		return "um mais um";
 	}
 }
